@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/engin.ai.landing/static/css/main.bc23f104.chunk.css",
+    "main.js": "/engin.ai.landing/static/js/main.afee3a54.chunk.js",
+    "main.js.map": "/engin.ai.landing/static/js/main.afee3a54.chunk.js.map",
+    "runtime~main.js": "/engin.ai.landing/static/js/runtime~main.71f2555e.js",
+    "runtime~main.js.map": "/engin.ai.landing/static/js/runtime~main.71f2555e.js.map",
+    "static/js/2.2093ea45.chunk.js": "/engin.ai.landing/static/js/2.2093ea45.chunk.js",
+    "static/js/2.2093ea45.chunk.js.map": "/engin.ai.landing/static/js/2.2093ea45.chunk.js.map",
+    "index.html": "/engin.ai.landing/index.html",
+    "precache-manifest.db55827bd7950da4bcd50123cb5dbb6c.js": "/engin.ai.landing/precache-manifest.db55827bd7950da4bcd50123cb5dbb6c.js",
+    "service-worker.js": "/engin.ai.landing/service-worker.js",
+    "static/css/main.bc23f104.chunk.css.map": "/engin.ai.landing/static/css/main.bc23f104.chunk.css.map",
+    "static/media/JP_Clipboard_Image.png": "/engin.ai.landing/static/media/JP_Clipboard_Image.47d82316.png",
+    "static/media/burger-icon-01.svg": "/engin.ai.landing/static/media/burger-icon-01.eef32ba4.svg",
+    "static/media/logo.svg": "/engin.ai.landing/static/media/logo.5d5d9eef.svg",
+    "static/media/white-logo-plus-name-final-01.svg": "/engin.ai.landing/static/media/white-logo-plus-name-final-01.ae4733f6.svg"
+  }
+}
