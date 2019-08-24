@@ -11,7 +11,7 @@ export default class Navbar extends Component {
 
   render() {
     const { activeItem } = this.state
-
+    const browserLang = this.props.browserLang;
     return (
       <Fragment>
         <Responsive {...Responsive.onlyComputer}>
@@ -21,14 +21,7 @@ export default class Navbar extends Component {
         <Image size="small" src={Logo}>
           
         </Image>
-        </Menu.Item>
-          <Menu.Item name='home' active={activeItem === 'home'} onClick={this.handleItemClick} />
-          <Menu.Item
-            name='messages'
-            active={activeItem === 'messages'}
-            onClick={this.handleItemClick}
-          />
-          
+        </Menu.Item>         
           
         </Menu>
       </Segment>

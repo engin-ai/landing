@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://engin-ai.github.io/landing",
   "dependencies": {
+    "detect-browser-language": "^0.0.2",
     "gh-pages": "2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
