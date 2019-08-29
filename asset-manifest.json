@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/landing/static/css/main.bc23f104.chunk.css",
-    "main.js": "/landing/static/js/main.ac5c7476.chunk.js",
-    "main.js.map": "/landing/static/js/main.ac5c7476.chunk.js.map",
+    "main.css": "/landing/static/css/main.96e49bfc.chunk.css",
+    "main.js": "/landing/static/js/main.b898eead.chunk.js",
+    "main.js.map": "/landing/static/js/main.b898eead.chunk.js.map",
     "runtime~main.js": "/landing/static/js/runtime~main.088e786a.js",
     "runtime~main.js.map": "/landing/static/js/runtime~main.088e786a.js.map",
-    "static/js/2.2093ea45.chunk.js": "/landing/static/js/2.2093ea45.chunk.js",
-    "static/js/2.2093ea45.chunk.js.map": "/landing/static/js/2.2093ea45.chunk.js.map",
+    "static/js/2.0b0b8c3e.chunk.js": "/landing/static/js/2.0b0b8c3e.chunk.js",
+    "static/js/2.0b0b8c3e.chunk.js.map": "/landing/static/js/2.0b0b8c3e.chunk.js.map",
     "index.html": "/landing/index.html",
-    "precache-manifest.3ba1185f9076aaf17a3cf3f1023bd92f.js": "/landing/precache-manifest.3ba1185f9076aaf17a3cf3f1023bd92f.js",
+    "precache-manifest.0c5f9d8c0e7e9f77cd6bdd1cb84a3f03.js": "/landing/precache-manifest.0c5f9d8c0e7e9f77cd6bdd1cb84a3f03.js",
     "service-worker.js": "/landing/service-worker.js",
-    "static/css/main.bc23f104.chunk.css.map": "/landing/static/css/main.bc23f104.chunk.css.map",
+    "static/css/main.96e49bfc.chunk.css.map": "/landing/static/css/main.96e49bfc.chunk.css.map",
     "static/media/JP_Clipboard_Image.png": "/landing/static/media/JP_Clipboard_Image.47d82316.png",
+    "static/media/ai-process-01-01.png": "/landing/static/media/ai-process-01-01.a493823f.png",
     "static/media/burger-icon-01.svg": "/landing/static/media/burger-icon-01.eef32ba4.svg",
+    "static/media/cloud-computing-01-01.png": "/landing/static/media/cloud-computing-01-01.76a8ebdf.png",
     "static/media/logo.svg": "/landing/static/media/logo.5d5d9eef.svg",
-    "static/media/white-logo-plus-name-final-01.svg": "/landing/static/media/white-logo-plus-name-final-01.ae4733f6.svg"
+    "static/media/report-vector-01-01.png": "/landing/static/media/report-vector-01-01.8feec911.png",
+    "static/media/white-logo-plus-name-final-01.svg": "/landing/static/media/white-logo-plus-name-final-01.ae4733f6.svg",
+    "static/media/App.css": "/landing/static/media/world-background.255fa589.jpg"
   }
 }
