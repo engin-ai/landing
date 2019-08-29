@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d48cb12d833f3d3ae7c4e9617fd7c832",
+    "revision": "4a46e329b2e0b094e0beb501e88be018",
     "url": "/landing/index.html"
   },
   {
-    "revision": "3d73afc821913e51ffa4",
-    "url": "/landing/static/css/main.bc23f104.chunk.css"
+    "revision": "cd6a2079342e1fd62183",
+    "url": "/landing/static/css/main.fec93ab0.chunk.css"
   },
   {
-    "revision": "0a89c96493e66dd3693f",
-    "url": "/landing/static/js/2.2093ea45.chunk.js"
+    "revision": "42397dfcd204445522cc",
+    "url": "/landing/static/js/2.51c56a44.chunk.js"
   },
   {
-    "revision": "3d73afc821913e51ffa4",
-    "url": "/landing/static/js/main.ac5c7476.chunk.js"
+    "revision": "cd6a2079342e1fd62183",
+    "url": "/landing/static/js/main.261e3d4e.chunk.js"
   },
   {
     "revision": "583ba90f5cdbe59afd63",
@@ -34,5 +34,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ae4733f6e21e456f350dbba15f27238f",
     "url": "/landing/static/media/white-logo-plus-name-final-01.ae4733f6.svg"
+  },
+  {
+    "revision": "255fa5890bff55ae77d29bbaff941ee2",
+    "url": "/landing/static/media/world-background.255fa589.jpg"
   }
 ]);
