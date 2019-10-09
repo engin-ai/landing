@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.010783a2.chunk.css",
-    "main.js": "/static/js/main.a89a7812.chunk.js",
-    "main.js.map": "/static/js/main.a89a7812.chunk.js.map",
+    "main.css": "/static/css/main.4dd4275f.chunk.css",
+    "main.js": "/static/js/main.d471a7fc.chunk.js",
+    "main.js.map": "/static/js/main.d471a7fc.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.7f11442b.chunk.js": "/static/js/2.7f11442b.chunk.js",
-    "static/js/2.7f11442b.chunk.js.map": "/static/js/2.7f11442b.chunk.js.map",
+    "static/js/2.b243d12f.chunk.js": "/static/js/2.b243d12f.chunk.js",
+    "static/js/2.b243d12f.chunk.js.map": "/static/js/2.b243d12f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.14012bb1b8f7e85545141247862e445a.js": "/precache-manifest.14012bb1b8f7e85545141247862e445a.js",
+    "precache-manifest.695e605b86636df1b2830bda0b950c18.js": "/precache-manifest.695e605b86636df1b2830bda0b950c18.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.010783a2.chunk.css.map": "/static/css/main.010783a2.chunk.css.map",
+    "static/css/main.4dd4275f.chunk.css.map": "/static/css/main.4dd4275f.chunk.css.map",
     "static/media/JP_Clipboard_Image.png": "/static/media/JP_Clipboard_Image.47d82316.png",
     "static/media/ai-process-01-01.png": "/static/media/ai-process-01-01.a493823f.png",
     "static/media/App.css": "/static/media/world-background.255fa589.jpg",
@@ -18,6 +18,8 @@
     "static/media/cloud-computing-01-01.png": "/static/media/cloud-computing-01-01.76a8ebdf.png",
     "static/media/consulting.jpg": "/static/media/consulting.e48c08dd.jpg",
     "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/pavement-with-ai.jpg": "/static/media/pavement-with-ai.ef770fa6.jpg",
+    "static/media/pavement-without-ai.jpg": "/static/media/pavement-without-ai.d02eafd6.jpg",
     "static/media/report-vector-01-01.png": "/static/media/report-vector-01-01.8feec911.png",
     "static/media/white-logo-plus-name-final-01.svg": "/static/media/white-logo-plus-name-final-01.ae4733f6.svg"
   }
