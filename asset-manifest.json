@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.39482ded.chunk.css",
-    "main.js": "/static/js/main.49bea255.chunk.js",
-    "main.js.map": "/static/js/main.49bea255.chunk.js.map",
+    "main.css": "/static/css/main.b708dc45.chunk.css",
+    "main.js": "/static/js/main.60aeb5a9.chunk.js",
+    "main.js.map": "/static/js/main.60aeb5a9.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.688d7cf1.chunk.js": "/static/js/2.688d7cf1.chunk.js",
-    "static/js/2.688d7cf1.chunk.js.map": "/static/js/2.688d7cf1.chunk.js.map",
+    "static/css/2.8cdfe445.chunk.css": "/static/css/2.8cdfe445.chunk.css",
+    "static/js/2.bbe877f3.chunk.js": "/static/js/2.bbe877f3.chunk.js",
+    "static/js/2.bbe877f3.chunk.js.map": "/static/js/2.bbe877f3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6936508050d3f1f833eaf057dbd5e2f4.js": "/precache-manifest.6936508050d3f1f833eaf057dbd5e2f4.js",
+    "precache-manifest.eb9bf8f45e1f7cc0bea1f7372d399653.js": "/precache-manifest.eb9bf8f45e1f7cc0bea1f7372d399653.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.39482ded.chunk.css.map": "/static/css/main.39482ded.chunk.css.map",
+    "static/css/2.8cdfe445.chunk.css.map": "/static/css/2.8cdfe445.chunk.css.map",
+    "static/css/main.b708dc45.chunk.css.map": "/static/css/main.b708dc45.chunk.css.map",
     "static/media/Analytics_SVG.svg": "/static/media/Analytics_SVG.eb5c9f14.svg",
     "static/media/City_SVG.svg": "/static/media/City_SVG.1f3498c5.svg",
     "static/media/Creative_process_SVG.svg": "/static/media/Creative_process_SVG.002c7f52.svg",
@@ -19,9 +21,12 @@
     "static/media/App.css": "/static/media/world-background.255fa589.jpg",
     "static/media/burger-icon-01.svg": "/static/media/burger-icon-01.eef32ba4.svg",
     "static/media/cloud-computing-01-01.png": "/static/media/cloud-computing-01-01.76a8ebdf.png",
+    "static/media/demo.jpg": "/static/media/demo.6318aa84.jpg",
+    "static/media/object-detection.json.resp": "/static/media/object-detection.json.b776f784.resp",
     "static/media/pavement-with-ai.jpg": "/static/media/pavement-with-ai.ef770fa6.jpg",
     "static/media/pavement-without-ai.jpg": "/static/media/pavement-without-ai.d02eafd6.jpg",
     "static/media/report-vector-01-01.png": "/static/media/report-vector-01-01.8feec911.png",
+    "static/media/semantic-segmentation.json.resp": "/static/media/semantic-segmentation.json.a51c4372.resp",
     "static/media/white-logo-plus-name-final-01.svg": "/static/media/white-logo-plus-name-final-01.ae4733f6.svg"
   }
 }
